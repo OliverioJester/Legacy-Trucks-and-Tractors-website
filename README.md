@@ -42,4 +42,4 @@ The website was created as a commercial project to establish the online presence
 
 ## Live Website
 
-The website is currently live and can be viewed at **:contentReference[oaicite:1]{index=1}**.
+The website is currently live and can be viewed at **[:contentReference[oaicite:1]{index=1}](https://legacytrucks.com.ph/)**.
