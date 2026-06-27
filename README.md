@@ -39,3 +39,7 @@ I was responsible for the complete development of the website, including:
 ## Purpose
 
 The website was created as a commercial project to establish the online presence of **Legacy Trucks and Tractors Inc.**, enabling customers to easily explore the company's products and services.
+
+## Live Website
+
+The website is currently live and can be viewed at **:contentReference[oaicite:1]{index=1}**.
